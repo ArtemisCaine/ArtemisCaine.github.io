@@ -1,24 +1,11 @@
 {{ if .Params.education }}
- <div>DEBUG: Loaded custom education partial</div>
-  <section class="education-section">
-    <h2>Education</h2>
-    <ul>
-      {{ range .Params.education }}
-        <li class="education-entry">
-          {{ with .degree }}
-            <div class="education-degree"><strong>{{ . }}</strong></div>
-          {{ end }}
-          {{ with .area }}
-            <div class="education-area">{{ . }}</div>
-          {{ end }}
-          {{ with .institution }}
-            <div class="education-institution">{{ . }}</div>
-          {{ end }}
-          {{ with .year }}
-            <div class="education-year">{{ . }}</div>
-          {{ end }}
-        </li>
-      {{ end }}
-    </ul>
-  </section>
+  <h2>Education</h2>
+  {{ range .Params.education }}
+    <p>Degree: {{ .degree }}</p>
+    <p>Area: {{ .area }}</p>
+    <p>Institution: {{ .institution }}</p>
+    <hr>
+  {{ end }}
+{{ else }}
+  <p>No education data found.</p>
 {{ end }}
