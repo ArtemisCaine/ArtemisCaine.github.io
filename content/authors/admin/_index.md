@@ -55,11 +55,13 @@ interests:
   - Just/ice Environmental Protection
   
 education:
-  - area: Post-Graduate Certificate - Biodiversity, Wildlife and Ecosystem Health
+  - degree: Post-Graduate Certificate
+    area: Post-Graduate Certificate - Biodiversity, Wildlife and Ecosystem Health
     institution: University of Edinburgh
 #    grade: Post-Graduate Certificate
 
-  - area: Veterinary Technician
+  - degree: Diploma
+    area: Veterinary Technician
 #   institution: Diploma
     institution: Algonquin College
 #   date_start: 
@@ -72,7 +74,8 @@ education:
 #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-  - area: Honours Kinesiology
+  - degree: Honours
+    area: Honours Kinesiology
 #    institution: Bachelor's of Science
     institution: University of Waterloo
 
