@@ -56,7 +56,7 @@ interests:
   
 education:
   - degree: Post-Graduate Certificate
-    area: Post-Graduate Certificate - Biodiversity, Wildlife and Ecosystem Health
+    area: Biodiversity, Wildlife and Ecosystem Health
     institution: University of Edinburgh
 #    grade: Post-Graduate Certificate
 
