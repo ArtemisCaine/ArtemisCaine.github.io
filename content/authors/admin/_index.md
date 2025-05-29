@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - degree: no
+  - degree: now
     area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
