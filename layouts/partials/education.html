@@ -1,11 +1,6 @@
 {{ if .Params.education }}
-  <h2>Education</h2>
-  {{ range .Params.education }}
-    {{ if .degree }}<p><strong>Degree:</strong> {{ .degree }}</p>{{ end }}
-    {{ if .area }}<p><strong>Area:</strong> {{ .area }}</p>{{ end }}
-    {{ if .institution }}<p><strong>Institution:</strong> {{ .institution }}</p>{{ end }}
-    <hr>
-  {{ end }}
+  <h2>Education (Debug View)</h2>
+  <pre>{{ jsonify .Params.education }}</pre>
 {{ else }}
   <p>No education data found.</p>
 {{ end }}
