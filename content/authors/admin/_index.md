@@ -147,4 +147,4 @@ awards:
 
 ## About Me
 
-Pragmatic to a fault and thinking they are funnier than they are, Artemis Caine is an aspiring marine biologist.  With the aim of focusing on marine synanthrophy and anthropogenic stress, they bring an eclectic education that spans both Western and Indigenous ways of knowing.  To find this cryptid creature you may want to know their usual daily behaviours: reading; gaming; tending to their pico reef tank; pleading with their cat to please not eat another charger cable; and/or plotting enrichment activities for their canary.
+Pragmatic to a fault and not quite as funny as they think they are, Artemis Caine is an aspiring marine biologist.  With the aim of focusing on marine synanthrophy and anthropogenic stress, they bring an eclectic education that spans both Western and Indigenous ways of knowing.  To find this cryptid creature you may want to know their usual daily behaviours: reading; gaming; tending to their pico reef tank; pleading with their cat to please not eat another charger cable; and/or plotting enrichment activities for their canary.
